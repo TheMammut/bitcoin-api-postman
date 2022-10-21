@@ -1,8 +1,8 @@
 {
 	"info": {
-		"_postman_id": "2cf3ccc5-68d7-4f68-892d-5d9ade6ad776",
+		"_postman_id": "77ebc242-f9dc-487f-8178-ff4cf9583eb1",
 		"name": "bitcoin_api",
-		"description": "Connecting Postman to a bitcoin node.",
+		"description": "Connecting Postman to your own Bitcoin Full Node and make API calls.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "22963073"
 	},
