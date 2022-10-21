@@ -10,4 +10,4 @@ The file is still under development and should not yet be used in production ope
 This file and script is based on the commands documented in the Bitcoin.org API Reference. 
 https://developer.bitcoin.org/reference/rpc/
 
-##Environment variables
+## Environment variables ##
